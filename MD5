@@ -1,0 +1,10 @@
+e81705e4aa6460410347e5e726924102 *DESCRIPTION
+c116b8be3476fd8b75b25bee98a6b884 *NAMESPACE
+d857e867604299fec478789874f89104 *R/covfefe.R
+a3a3cd1bedfa58e5f920cb22839deaf9 *README.md
+7accd6e90378bc1007814eaaeb50fa8c *inst/extdata/inauguration.txt
+3e261874687e2e8bc535f7f230650caa *man/covfefy.Rd
+8dc6923595326ee02ec3807ea34e237b *man/covfefySentence.Rd
+0a7a83feafa8cf7497523ad2fcc76a10 *man/covfefySpeech.Rd
+2b5cfb70738058b7eb0118ead165c0e0 *tests/testthat.R
+a6bb8fa71ea387cfa91a81021f4bf2be *tests/testthat/test.R
